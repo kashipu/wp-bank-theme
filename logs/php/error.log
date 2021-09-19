@@ -1,0 +1,58 @@
+[17-Sep-2021 05:06:02 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\header.php on line 13
+[17-Sep-2021 05:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\index.php:1
+Stack trace:
+#0 {main}
+  thrown in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\index.php on line 1
+[17-Sep-2021 05:26:03 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php on line 15
+[17-Sep-2021 05:37:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php:15
+Stack trace:
+#0 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(303): test_credibanco_styles('')
+#1 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\code\siteswp-local\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\code\siteswp-local\app\public\wp-includes\script-loader.php(2083): do_action('wp_enqueue_scri...')
+#4 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(303): wp_enqueue_scripts('')
+#5 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\code\siteswp-local\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\code\siteswp-local\app\public\wp-includes\general-template.php(3015): do_action('wp_head')
+#8 E:\code\siteswp-local\app\public\wp-content\themes\temaTest\header.php(7 in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php on line 15
+[17-Sep-2021 05:37:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php:15
+Stack trace:
+#0 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(303): test_credibanco_styles('')
+#1 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\code\siteswp-local\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\code\siteswp-local\app\public\wp-includes\script-loader.php(2083): do_action('wp_enqueue_scri...')
+#4 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(303): wp_enqueue_scripts('')
+#5 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\code\siteswp-local\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\code\siteswp-local\app\public\wp-includes\general-template.php(3015): do_action('wp_head')
+#8 E:\code\siteswp-local\app\public\wp-content\themes\temaTest\header.php(7 in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php on line 15
+[17-Sep-2021 05:37:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php:18
+Stack trace:
+#0 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(303): test_credibanco_styles('')
+#1 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\code\siteswp-local\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\code\siteswp-local\app\public\wp-includes\script-loader.php(2083): do_action('wp_enqueue_scri...')
+#4 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(303): wp_enqueue_scripts('')
+#5 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\code\siteswp-local\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\code\siteswp-local\app\public\wp-includes\general-template.php(3015): do_action('wp_head')
+#8 E:\code\siteswp-local\app\public\wp-content\themes\temaTest\header.php(7 in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php on line 18
+[17-Sep-2021 05:37:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php:18
+Stack trace:
+#0 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(303): test_credibanco_styles('')
+#1 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\code\siteswp-local\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\code\siteswp-local\app\public\wp-includes\script-loader.php(2083): do_action('wp_enqueue_scri...')
+#4 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(303): wp_enqueue_scripts('')
+#5 E:\code\siteswp-local\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\code\siteswp-local\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\code\siteswp-local\app\public\wp-includes\general-template.php(3015): do_action('wp_head')
+#8 E:\code\siteswp-local\app\public\wp-content\themes\temaTest\header.php(7 in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php on line 18
+[17-Sep-2021 05:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\index.php:1
+Stack trace:
+#0 {main}
+  thrown in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\index.php on line 1
+[17-Sep-2021 05:39:11 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php on line 15
+[17-Sep-2021 05:39:21 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php on line 15
+[17-Sep-2021 05:40:05 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\functions.php on line 15
+[17-Sep-2021 07:23:31 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in E:\code\siteswp-local\app\public\wp-content\themes\temaTest\page.php on line 13

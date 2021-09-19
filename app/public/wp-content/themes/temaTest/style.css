@@ -1,0 +1,37 @@
+/*
+    Theme Name: Tema Test
+    Theme URI: 
+    Author: William Moreno
+    Author URI:
+    Description: Este es un tema para la prueba de Wordpress
+    Version: 1.0
+    Licence: GNU General Public Licence v2 or later
+    Text Domain: test_credibanco
+*/
+
+@import url(css/_variables.css);
+@import url(css/_elements.css);
+@import url(css/_header.css);
+@import url(css/_page.css);
+/* Components */
+@import url(css/components/_card-horizontal.css);
+@import url(css/components/_card-vertical-image.css);
+@import url(css/_footer.css);
+
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Gilroy', sans-serif;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+

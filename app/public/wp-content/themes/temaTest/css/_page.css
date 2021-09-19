@@ -1,0 +1,19 @@
+.page__hero {
+    height: 580px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--gray-footer);
+}
+
+.page__title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--white);
+}
+
+.page__content {
+    padding: 1rem;
+}

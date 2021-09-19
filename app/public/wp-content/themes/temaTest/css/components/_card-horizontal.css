@@ -1,0 +1,28 @@
+/* Altura contenedor de la imagen */
+.content__image {
+    height: 40rem;
+}
+
+/* Opciones del backgraund image */
+.img_effect {
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.content__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.5;
+    padding: 3rem;
+    height: 100%;
+}
+
+.content__body {
+    line-height: 1.6;
+    padding: 3rem;
+}

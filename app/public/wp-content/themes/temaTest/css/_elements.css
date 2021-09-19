@@ -1,0 +1,9 @@
+.text-lead {
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1.2;
+}
+
+p {
+    margin: 0;
+}

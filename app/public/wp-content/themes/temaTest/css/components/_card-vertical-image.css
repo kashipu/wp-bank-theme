@@ -1,0 +1,17 @@
+.card__container {
+    border: 1px solid #cfccd3;
+    border-radius: 8px;
+    padding: 1rem 1rem 1.5625rem 1rem;
+    height: 100%;
+}
+
+.card__body h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    padding-top: 1.5rem;
+}
+
+.card__body h3:hover {
+    color: var(--blue-secondary);
+    cursor: pointer;
+}

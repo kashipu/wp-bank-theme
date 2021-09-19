@@ -1,0 +1,11 @@
+:root {
+    --white: rgb(255,255,255);
+    --black: rgb(0,0,0);
+    --blue-secondary : rgb(100, 204, 201);
+    --gradient-button: linear-gradient(90deg, #DA9CEA 14.18%, #05CED3 81.27%);
+    --gray-footer : rgb(41, 41, 41);
+}
+
+.fw-700 {
+    font-weight: 700;
+}

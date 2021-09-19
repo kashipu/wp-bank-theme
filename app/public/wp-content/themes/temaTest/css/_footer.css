@@ -1,0 +1,10 @@
+footer {
+    background-color: var(--gray-footer);
+    padding: 5rem;
+    color: var(--white);
+}
+
+.footer__content {
+    display: flex;
+    justify-content: center;
+}
