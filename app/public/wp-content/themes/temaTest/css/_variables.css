@@ -4,8 +4,25 @@
     --blue-secondary : rgb(100, 204, 201);
     --gradient-button: linear-gradient(90deg, #DA9CEA 14.18%, #05CED3 81.27%);
     --gray-footer : rgb(41, 41, 41);
+    --gray-color: rgb(152, 152, 152);
 }
+
+p {
+    margin: 0;
+}
+
+.fw-600 {
+    font-weight: 600;
+} 
 
 .fw-700 {
     font-weight: 700;
+}
+
+.border__secondary {
+    border: 2px solid rgb(100, 204, 201);
+}
+
+.gray__color {
+    color: var(--gray-color)
 }

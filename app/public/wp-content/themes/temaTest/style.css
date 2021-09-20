@@ -16,6 +16,8 @@
 /* Components */
 @import url(css/components/_card-horizontal.css);
 @import url(css/components/_card-vertical-image.css);
+@import url(css/components/_table.css);
+@import url(css/components/_buttons.css);
 @import url(css/_footer.css);
 
 html {

@@ -1,0 +1,18 @@
+.table__custom {
+    width: 100%;
+}
+
+.table__custom th {
+    border: 1px solid #dcdcdc;
+    padding: 1.2rem;
+    text-align: center;
+    background-color: #f6f6f6;
+}
+
+.table__custom td {
+    border: 1px solid #dcdcdc;
+    padding: 1rem;
+}
+.table__custom tr:nth-child(even) {
+    background: #f6f6f6
+}

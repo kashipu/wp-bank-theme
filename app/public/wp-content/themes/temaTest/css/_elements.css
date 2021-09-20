@@ -4,6 +4,32 @@
     line-height: 1.2;
 }
 
-p {
-    margin: 0;
+.link__card {
+    font-weight: 700;
+    padding-top: 1rem;
+}
+
+.link__card a {
+    text-decoration: none;
+    color: var(--blue-secondary);  
+}
+
+.link__card a:hover {
+    color: black;
+}
+
+
+
+.filter {
+    filter: brightness(0%);
+}
+
+.phone__wiget {
+    background-color: #f5f8f7;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 10px;
+    margin: 1rem;
+    width: 100%;
 }
